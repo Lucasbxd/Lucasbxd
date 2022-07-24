@@ -21,10 +21,12 @@
 ### ⚙️ languages and tools:
 
 <div>
+  <img align="centeer" alt="html" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="centeer" alt="css" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="centeer" alt="JavaScript" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="centeer" alt="python" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="centeer" alt="git" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="centeer" alt="git" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  
+  <img align="centeer" alt="github" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
   ![Snake animation](https://github.com/lucasbxd/lucasbxd/blob/output/github-contribution-grid-snake.svg)
 </div>
-
