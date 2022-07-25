@@ -2,7 +2,7 @@
 
 - 🌱 Apaixonado por tecnologia e games
 - ✍🏼 Formado em engenharia civil em transição para programação
-- 🦾 Foco em Fullstack
+- 🦾 Conhecendo um pouco do frontend para depois mergulhar no mundo do backend.
 
 <div>
   <a href="https://github.com/Lucasbxd">
